@@ -1,0 +1,3 @@
+* lfsr audio + gfx
+* flames (perlin noise)
+* simple mod player
